@@ -1,0 +1,40 @@
+body {
+  background-color: #333;
+  color: #fff;
+  width: 1000px;
+}
+legend {
+  padding: 5px 10px;
+  background-color: black;
+  border: 1px solid;
+  border-radius: 10px;
+  color: white;
+
+}
+
+button {
+    padding: 5px 10px;
+  background-color: black;
+  border: 1px solid;
+  border-radius: 10px;
+  color: white;
+}
+input {
+  height: 1.5em;
+}
+fieldset {
+  background-color: gray;
+  width: 600px;
+  border: 3px double black;
+  border-radius: 5px;
+}
+textarea {
+  width: 550px;
+  height: 100px;
+}
+input, textarea {
+  outline: 0;
+  border: 0;
+  box-shadow: 2px 1.5px #777;
+  border-radius: 5px;
+}
